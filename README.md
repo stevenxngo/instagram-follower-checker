@@ -1,4 +1,4 @@
-# Instagram Followers Checker Web App
+# Instagram Follower Checker
 
 This is a web app that checks who you follow on Instagram that doesn't follow you back. It uses uploaded JSON data downloaded directly from Instagram. Built with React and Vite and deployed on GitHub Pages.
 
